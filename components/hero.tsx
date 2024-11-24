@@ -38,6 +38,7 @@ export default function Header() {
           Next.js
         </a>
       </p>
+      <a href="/dashboard">Dashboard</a><a href="/countries">Countries</a>
       <div className="w-full p-[1px] bg-gradient-to-r from-transparent via-foreground/10 to-transparent my-8" />
     </div>
   );
